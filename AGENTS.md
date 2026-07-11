@@ -14,7 +14,7 @@ Every line of code is on a budget. The less code, the better. Refuse abstraction
 
 - TypeScript strict (`strict`, `noUncheckedIndexedAccess`, `exactOptionalPropertyTypes`, `noImplicitOverride`)
 - jiti — extension loads as `.ts` source, no build step
-- Deps: `@mariozechner/pi-coding-agent`. Nothing else.
+- Deps: `@earendil-works/pi-coding-agent`. Nothing else.
 
 ## Standards
 

@@ -72,7 +72,7 @@ To exercise the bar, run pi with tools enabled, ask it to read a file, then ask 
 ## Stack
 
 - TypeScript strict, no build step. The extension loads as `.ts` source via jiti.
-- Deps: `@mariozechner/pi-coding-agent`. Nothing else.
+- Deps: `@earendil-works/pi-coding-agent`. Nothing else.
 
 ## License
 
